@@ -23,7 +23,10 @@ Welcome to my Game Server Platform! This repository serves as an overview of the
 - **Wipe Schedule**: Bi-weekly (Fridays)
 - **Description**: Intense survival gameplay with an active community and minimal rules.
 
-### 5. **And More Coming Soon!**
+### 5. **Valkarin**
+- **Please join our Discord for further information pertaining to Valkarin's main game.**
+
+### 6. **And More Coming Soon!**
 We are continuously expanding our offerings to include more game servers. Stay tuned for updates!
 
 ## How to Join
