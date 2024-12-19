@@ -35,8 +35,8 @@ To join a game server, follow these steps:
 4. Connect and enjoy!
 
 ## Community & Support
-- **Discord**: Join our [Discord server](https://discord.example.com) to connect with other players, participate in events, and get support.
-- **Contact**: For issues or inquiries, reach out via email at `support@example.com`.
+- **Discord**: Join our [Discord server](https://discord.gg/valkarin) to connect with other players, participate in events, and get support.
+- **Contact**: For issues or inquiries, reach out via email at `valk@valkarin.net`.
 
 ## Updates
 Stay tuned for updates on server events, new game server additions, and maintenance schedules. Keep an eye on this README or join our Discord for the latest news.
