@@ -6,20 +6,20 @@ Welcome to my Game Server Platform! This repository serves as an overview of the
 
 ### 1. **Minecraft**
 - **Version**: 1.20.x
-- **Server Address**: `minecraft.example.com`
+- **Server Address**: `79.127.242.122:11440`
 - **Game Mode**: Survival (SMP) with Quality of Life plugins
 - **Description**: A friendly survival server with a balanced economy and exciting community events.
 
 ### 2. **DayZ**
-- **Server Address**: `dayz.example.com`
+- **Server Address**: `79.127.242.122:11270`
 - **Description**: Experience intense survival gameplay in this open-world zombie apocalypse server.
 
 ### 3. **Valheim**
-- **Server Address**: `valheim.example.com`
+- **Server Address**: `79.127.242.122:11348`
 - **Description**: Explore the Viking world in this dedicated co-op Valheim server with friends.
 
 ### 4. **Rust**
-- **Server Address**: `rust.example.com`
+- **Server Address**: `79.127.242.122:28050`
 - **Wipe Schedule**: Bi-weekly (Fridays)
 - **Description**: Intense survival gameplay with an active community and minimal rules.
 
